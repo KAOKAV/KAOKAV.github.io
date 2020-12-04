@@ -1,0 +1,42 @@
+@charset "utf-8";
+/* CSS Document */
+
+.servis1 {
+	width: 65%;
+	min-height: 500px;
+	height: inherit;
+	background-color: #fff;
+	margin: 80px auto 60px auto;
+	box-shadow: 0 0 10px #111;
+}
+
+.servis1p {
+	color: #333;
+}
+
+.lis {
+	height: 205px;
+	background-color: #19729C;
+	background-image: linear-gradient(#19729C, #51B3B0);
+	width: 100%;
+}
+
+.lishr {
+	text-align: center;
+	width: 80%;
+}
+
+.lish2 {
+	padding-top: 15px;
+	padding-left: 25px;
+}
+
+.lis p {
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+.lisp {
+	margin-left: 20px;
+	margin-bottom: 5px;
+}

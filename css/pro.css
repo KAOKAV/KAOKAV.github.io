@@ -1,0 +1,42 @@
+@charset "utf-8";
+/* CSS Document */
+
+.colto {
+	width: 80%;
+	min-height: 500px;
+	height: inherit;
+	background-color: #fff;
+	margin: 80px auto 60px auto;
+	box-shadow: 0 0 10px #777;
+}
+
+.coltopro {
+	border: 1px solid #fff;
+	background-color: #31985A;
+}
+
+.pro {
+	font-size: 20px;
+	padding-top: 25px;
+}
+
+.pro a {
+	font-family: Arial, Verdana, sans-serif;
+	color: #FFC107;
+	text-shadow: -1px -2px #666;
+	text-decoration: none;
+}
+
+.pro a:hover {
+	color: #fff;
+}
+
+.pro a:active {
+	color: #4DB391;
+}
+
+.colto p {
+	font-family: Arial, Verdana, sans-serif;
+	color: #495A56;}
+	
+	

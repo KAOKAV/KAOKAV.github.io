@@ -1,0 +1,75 @@
+@charset "utf-8";
+/* CSS Document */
+
+.qa {
+	width: 70%;
+	min-height: 500px;
+	height: inherit;
+	background-color: #fff;
+	margin: 80px auto 60px auto;
+	box-shadow: 0 0 10px #777;
+}
+
+.qa1 {
+	height: 80px;
+	border: 1px solid #fff;
+	background-color: #A01A3E;
+}
+
+.qa2 {
+	height: 40px;
+	background-color: #EFEFEF;
+	box-shadow: 0 0 5px #777;
+}
+
+.qa1h2 {
+	font-family: Arial, Verdana, sans-serif;
+	color: #fff;
+	margin: 15px 15px;
+}
+
+.qa1h2,
+.poisk {
+	display: inline-block;
+}
+
+.qa3 {
+	color: #4DB391;
+	margin-top: 10px;
+	margin-left: 10px;
+	margin-bottom: 0px;
+}
+
+.qa3:hover {
+	color: #329373;
+}
+
+.qa4 {
+	color: #777;
+	font-size: 80%;
+	margin-top: 0px;
+}
+
+.qa5 {
+	color: #4DB391;
+	margin-top: 15px;
+	margin-left: 10px;
+	margin-bottom: 0px;
+}
+
+.poisk {
+	float: right;
+	margin-top: 50px;
+	margin-right: 15px;
+}
+
+.qaimg {
+	width: 20px;
+	height: 20px;
+	float: left;
+}
+
+#poisk {
+	width: 600px;
+	border-radius: 8px;
+}

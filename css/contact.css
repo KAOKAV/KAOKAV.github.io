@@ -1,0 +1,97 @@
+@charset "utf-8";
+/* CSS Document */
+
+.pro {
+	font-size: 20px;
+	padding-top: 25px;
+}
+
+.con {
+	width: 50%;
+	min-height: 500px;
+	height: inherit;
+	background-color: #fff;
+	margin: 80px auto 60px 80px;
+	box-shadow: 0 0 10px #777;
+}
+
+.con1 {
+	height: 80px;
+	border: 1px solid #fff;
+	background-color: #A01A3E;
+}
+
+fieldset {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.contact {
+	float: left;
+	width: 200px;
+	color: #A01A3E;
+}
+
+.contact1 {
+	color: #A01A3E;
+	font-size: 70%;
+}
+
+.contact3 {
+	width: 90%;
+	color: #A01A3E;
+}
+
+.phone {
+    background-color: #FFC107;
+	background-image: linear-gradient(#FFC107, #FFE619);
+	border: 1px solid #329373;
+	height: 120px;
+	margin: 50px auto auto auto;
+	width: 80%;
+}
+
+.phoneh1 {
+	margin-top: 0px;
+}
+
+.phonep {
+
+	margin-top: 0px;
+	margin-bottom: 0px;
+	text-align: right;
+}
+
+
+#email {
+	width: 300px;
+}
+
+#name {
+	width: 300px;
+}
+
+#phone {
+	width: 300px;
+}
+
+.sub {
+	text-align: center;
+}
+
+#sub {
+	color: #fff;
+	width: 150px;
+	background-color: #A01A3E;
+	border-radius: 5px;
+	padding: 5px 5px 5px 10px;
+}
+
+#sub:hover {
+	background-color: #495A56;
+}
+.contact3a {
+	color: #A01A3E;
+}
+	
+	

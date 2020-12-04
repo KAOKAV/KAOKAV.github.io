@@ -1,0 +1,24 @@
+@charset "utf-8";
+/* CSS Document */
+
+.colto {
+	background-color: #fff;
+	width: 80%;
+	min-height: 500px;
+	height: inherit;
+	margin: 80px auto 60px auto;
+	box-shadow: 0 0 10px #777;
+}
+
+.ulservis {
+	color: #495A56;
+	min-width: 300px;
+	width: 500px;
+}
+
+.colto p {
+	color: #495A56;
+	font-family: Arial, Verdana, sans-serif;
+}
+
+
