@@ -86,6 +86,7 @@ nav li a {
 	float: left;
 	margin-top: 10px;
 	margin-left: 2%;
+	margin-right: 1%;
 	text-align: center;
 	width: 30%;
 }
@@ -101,9 +102,11 @@ nav li a {
 	box-shadow: 0 0 10px #777;
 	height: inherit;
 	margin-top: 10px;
-	margin-bottom: 60px;
 	min-height: 105px;
-	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+	bottom: 60px;
+	width: 97%;
 }
 
 .col4p {
@@ -130,7 +133,7 @@ h1 {
 h2 {
     color: #fff;
 	font-family: Arial, Verdana, sans-serif;
-	margin: 15px 15px;
+	margin: 15px auto;
 }
 
 h3 {
@@ -153,6 +156,8 @@ footer {
 
 .hedh2 {
 	color: #FFC107;
+	margin-left: 15px;
+	margin-top: 20px;
 	text-shadow: -1px -2px #666;
 }
 
@@ -183,6 +188,7 @@ ul {
 
 .coltoservish2 {
 	color: #647571;
+	margin-left: 15px;
 }
 
 .coltoservis1h1 {
